@@ -1,7 +1,7 @@
 # Avengers Character Builder (v2)
 
-Earlier version of [avengers-character-builder](https://github.com/saathvik-the05/avengers-character-builder).
+Classwork version. The extended version is [project-avengers-character-builder](https://github.com/saathvik-the05/project-avengers-character-builder).
 
 **Built with:** HTML, CSS, JavaScript, Fabric.js
 
-> Built in 2021 during a school coding course. Kept here as a record of early work; it has not been updated since.
+> Classwork from a school coding course (2021). I wrote most of the HTML, CSS and JavaScript myself.
