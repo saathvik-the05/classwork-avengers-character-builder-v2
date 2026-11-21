@@ -4,4 +4,4 @@ Classwork version. The extended version is [project-avengers-character-builder](
 
 **Built with:** HTML, CSS, JavaScript, Fabric.js
 
-> Classwork from a school coding course (2021). I wrote most of the HTML, CSS and JavaScript myself.
+> Classwork from the WhiteHat Jr online coding course (2021). I wrote most of the HTML, CSS and JavaScript myself.
